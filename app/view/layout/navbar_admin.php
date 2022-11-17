@@ -2,7 +2,7 @@
         <div class="container">
             <a class="navbar-brand" href="<?php echo URLROOT;?>/admin">
             <img src="<?php echo URLROOT; ?>/img/logo_langosta.png" alt="" width="35" height="35" class="d-inline-block align-text-top">
-                Tamizjo.
+                Tamizjo
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>

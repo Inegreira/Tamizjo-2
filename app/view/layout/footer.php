@@ -2,7 +2,7 @@
 </body>
 <footer class="text-center text-white fixed-bottom footer-langosta">
     <!-- Copyright -->
-    <div class="text-center p-3">© 2022 chool</div>
+    <div class="text-center p-3">© 2022 Tamizjo</div>
     <!-- Copyright -->
 </footer>
 

@@ -12,4 +12,4 @@
     define('APPROOT', dirname(dirname(__FILE__)));
 
     //URLROOT
-    define('URLROOT', 'http://localhost/Tamizjo');
+    define('URLROOT', 'http://localhost/tamizjo');
